@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefshakersw
-- 👀 I’m interested in web development, cloud computing and Android development 
-- 🌱 I’m currently learning Android development 
+- 👀 I’m interested in AI and Machine learning
+- 🌱 I’m currently learning AI 
 - 📫 How to reach me check links below 👇
 
 (https://www.linkedin.com/in/youssefshaker/
