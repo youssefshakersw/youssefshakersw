@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Android development 
 - 📫 How to reach me check links below 👇
 
-https://www.linkedin.com/in/youssef-sweed
-https://www.instgram.com/youssef_sweed
-https://www.facebook.com/youssef.sweed74 
+(https://www.linkedin.com/in/youssefshaker/
+https://www.instgram.com/yousseff_shaker
 
 
 <!---
